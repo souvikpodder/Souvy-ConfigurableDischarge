@@ -13,3 +13,4 @@ A standalone Timberborn 1.1 mod that lets you configure the flow rate of the Flu
 
 - Harmony (v2.3.3+)
 - Mod Settings (v0.6.5.1+)
+
