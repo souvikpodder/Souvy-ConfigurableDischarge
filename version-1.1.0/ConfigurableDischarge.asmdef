@@ -1,0 +1,33 @@
+{
+    "name": "ConfigurableDischarge",
+    "rootNamespace": "ConfigurableDischarge",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "0Harmony.dll",
+        "ModSettings.Core.dll",
+        "ModSettings.Common.dll",
+        "Bindito.Core.dll",
+        "Timberborn.BaseComponentSystem.dll",
+        "Timberborn.BlockSystem.dll",
+        "Timberborn.BlueprintSystem.dll",
+        "Timberborn.Common.dll",
+        "Timberborn.Goods.dll",
+        "Timberborn.Localization.dll",
+        "Timberborn.Modding.dll",
+        "Timberborn.ModManagerScene.dll",
+        "Timberborn.Persistence.dll",
+        "Timberborn.SettingsSystem.dll",
+        "Timberborn.SingletonSystem.dll",
+        "Timberborn.WaterBuildings.dll",
+        "Timberborn.WaterWorkshops.dll",
+        "Timberborn.Workshops.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

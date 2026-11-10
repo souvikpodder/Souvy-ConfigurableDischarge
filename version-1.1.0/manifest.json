@@ -1,0 +1,17 @@
+{
+  "Name": "Configurable Fluid Dump",
+  "Version": "1.0.0",
+  "Id": "Souvy.ConfigurableDischarge",
+  "MinimumGameVersion": "1.1.0.0",
+  "Description": "Configure fluid dump flow rates and overflow behavior without changing water bottle consumption.",
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinimumVersion": "2.3.3"
+    },
+    {
+      "Id": "eMka.ModSettings",
+      "MinimumVersion": "0.6.5.1"
+    }
+  ]
+}

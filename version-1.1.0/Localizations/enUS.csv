@@ -1,0 +1,8 @@
+ID,Text,Comment
+Souvy.ConfigurableDischarge.Setting.Header,"Configurable Fluid Dump",
+Souvy.ConfigurableDischarge.WaterFlowMultiplier,"Water Flow Multiplier",
+Souvy.ConfigurableDischarge.WaterFlowMultiplierDesc,"Multiplier for clean water discharge rate (Game default: 1x = 0.6 m³/h). Consumes the exact same amount of bottled water.",
+Souvy.ConfigurableDischarge.BadwaterFlowMultiplier,"Badwater Flow Multiplier",
+Souvy.ConfigurableDischarge.BadwaterFlowMultiplierDesc,"Multiplier for badwater discharge rate (Game default: 1x = 0.6 m³/h). Consumes the exact same amount of bottled badwater.",
+Souvy.ConfigurableDischarge.AllowOverflow,"Allow Submerged Dumping",
+Souvy.ConfigurableDischarge.AllowOverflowDesc,"When enabled, Fluid Dumps will continue to dump water even if the water below has reached or submerged the spout level.",
